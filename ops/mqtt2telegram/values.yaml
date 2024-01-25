@@ -1,0 +1,6 @@
+replicaCount: 1
+
+app: mqtt2telegram
+image: zjor/mqtt2telegram
+version:
+
